@@ -10,3 +10,4 @@ Random forest classifier and knn was used!
 ![plane2](https://user-images.githubusercontent.com/73397927/151483201-1d25f92a-ee9a-46c7-be23-9a9ceb61995e.jpg)
 
 Analysing using time series now
+![plane3](https://user-images.githubusercontent.com/73397927/151746536-6a0e57d1-0af6-465b-996e-486fec1fa886.jpg)
