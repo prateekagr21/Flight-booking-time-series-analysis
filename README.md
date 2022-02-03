@@ -9,11 +9,11 @@ Random forest classifier and knn was used!
 
 ![plane2](https://user-images.githubusercontent.com/73397927/151483201-1d25f92a-ee9a-46c7-be23-9a9ceb61995e.jpg)
 
-Analysing using time series now
+Analysing using time series nowlll
 ![plane3](https://user-images.githubusercontent.com/73397927/151746536-6a0e57d1-0af6-465b-996e-486fec1fa886.jpg)
 
 passangers!!!
 
 ;;
 
-![plane4](https://user-images.githubusercontent.com/73397927/151924924-7f9dbb25-d7e0-45af-9cb4-69f610c1bc74.jpg)
+![plane4](https://user-images.githubusercontent.com/73397927/1519;;;24924-7f9dbb25-d7e0-45af-9cb4-69f610c1bc74.jpg)
