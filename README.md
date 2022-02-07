@@ -55,7 +55,7 @@ To fit and transform Numerical and Categorical Column values.
 ## Did Cross Validation
 Measuring the Forecast Error by Comparing the Predicted values with Actual values!
 
-## Plotted the Performance matrix of :
+## Plotted the Performance matrix of the following :
 - Mean Squared Error(MSE)
 - Root Mean Squared Error(RMSE)
 - Mean Absolute Error(MAE)
